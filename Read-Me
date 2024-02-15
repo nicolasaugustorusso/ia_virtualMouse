@@ -1,0 +1,3 @@
+Por exigência de tamanho de arquivo, foi adicionado no repertório apenas o arquivo de código do projeto, onde poderemos estudar da maneira como o modelo de ML já treinado e disponibilizado 
+na biblioteca mediaPipe em conjunto com a biblioteca OpenCV que cuida da parte de visão computacional. E para fazer as ações de mouse foi utilizada a biblioteca AutoGUI, 
+que atua por cordenadas e automatiza as funções de ações.
